@@ -1,0 +1,1 @@
+# a-mapty-application
